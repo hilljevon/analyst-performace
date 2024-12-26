@@ -1,0 +1,3202 @@
+[
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 4.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 8.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 6.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 1.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jan-24",
+        "val": null
+    },
+    {
+        "month": "Feb-24",
+        "val": null
+    },
+    {
+        "month": "Mar-24",
+        "val": null
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 5.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 2.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 2.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 8.0
+    },
+    {
+        "month": "May-24",
+        "val": 8.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 5.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 8.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 8.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 7.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 7.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 1.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": null
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 1.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 2.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 6.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 5.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 4.0
+    },
+    {
+        "month": "May-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 1.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 1.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 2.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 2.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 4.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 3.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 3.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 1.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 2.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 3.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 4.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 5.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 4.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 2.0
+    },
+    {
+        "month": "May-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 1.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 4.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 2.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 1.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 3.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 4.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 1.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 2.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 11.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 6.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 2.0
+    },
+    {
+        "month": "May-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 3.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": null
+    },
+    {
+        "month": "Feb-24",
+        "val": null
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 5.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 2.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 2.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 1.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 2.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 3.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 2.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 2.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 2.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": null
+    },
+    {
+        "month": "Feb-24",
+        "val": null
+    },
+    {
+        "month": "Mar-24",
+        "val": null
+    },
+    {
+        "month": "Apr-24",
+        "val": null
+    },
+    {
+        "month": "May-24",
+        "val": null
+    },
+    {
+        "month": "Jun-24",
+        "val": null
+    },
+    {
+        "month": "Jul-24",
+        "val": null
+    },
+    {
+        "month": "Aug-24",
+        "val": null
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 8.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 4.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 2.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 1.0
+    },
+    {
+        "month": "May-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 1.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 1.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 2.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 2.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 3.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 2.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 2.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 2.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 2.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 2.0
+    },
+    {
+        "month": "May-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 4.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 1.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 1.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": null
+    },
+    {
+        "month": "May-24",
+        "val": null
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 2.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 1.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 1.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": null
+    },
+    {
+        "month": "Feb-24",
+        "val": null
+    },
+    {
+        "month": "Mar-24",
+        "val": null
+    },
+    {
+        "month": "Apr-24",
+        "val": null
+    },
+    {
+        "month": "May-24",
+        "val": null
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 2.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 2.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 2.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jan-24",
+        "val": null
+    },
+    {
+        "month": "Feb-24",
+        "val": null
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 1.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 4.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 3.0
+    },
+    {
+        "month": "May-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 3.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 10.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 3.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 1.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 1.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 1.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": null
+    },
+    {
+        "month": "Feb-24",
+        "val": null
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": null
+    },
+    {
+        "month": "Feb-24",
+        "val": null
+    },
+    {
+        "month": "Mar-24",
+        "val": null
+    },
+    {
+        "month": "Apr-24",
+        "val": null
+    },
+    {
+        "month": "May-24",
+        "val": null
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": null
+    },
+    {
+        "month": "Feb-24",
+        "val": null
+    },
+    {
+        "month": "Mar-24",
+        "val": null
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 2.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 3.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 3.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 3.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 2.0
+    },
+    {
+        "month": "May-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 1.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 1.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 1.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 3.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 1.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jan-24",
+        "val": null
+    },
+    {
+        "month": "Feb-24",
+        "val": null
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 1.0
+    },
+    {
+        "month": "Oct-24",
+        "val": null
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 4.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 7.0
+    },
+    {
+        "month": "May-24",
+        "val": 4.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 2.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 1.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 1.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": null
+    },
+    {
+        "month": "Apr-24",
+        "val": null
+    },
+    {
+        "month": "May-24",
+        "val": null
+    },
+    {
+        "month": "Jun-24",
+        "val": null
+    },
+    {
+        "month": "Jul-24",
+        "val": null
+    },
+    {
+        "month": "Aug-24",
+        "val": null
+    },
+    {
+        "month": "Sep-24",
+        "val": null
+    },
+    {
+        "month": "Oct-24",
+        "val": null
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 2.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 3.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 4.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 7.0
+    },
+    {
+        "month": "May-24",
+        "val": 5.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 13.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 10.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 6.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 5.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 10.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 1.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 2.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 1.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 5.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 1.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 1.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 1.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 1.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 2.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 3.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 1.0
+    },
+    {
+        "month": "May-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 4.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 1.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 3.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 1.0
+    },
+    {
+        "month": "May-24",
+        "val": 3.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 1.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 2.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 2.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 1.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 2.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 7.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 4.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 3.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 4.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 8.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 14.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 4.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 2.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 5.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": null
+    },
+    {
+        "month": "Mar-24",
+        "val": null
+    },
+    {
+        "month": "Apr-24",
+        "val": 1.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 2.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 5.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 12.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 7.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 9.0
+    },
+    {
+        "month": "May-24",
+        "val": 5.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 8.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 9.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 5.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 5.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 4.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 2.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 2.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 4.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 3.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 4.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 3.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 3.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 6.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 1.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jan-24",
+        "val": null
+    },
+    {
+        "month": "Feb-24",
+        "val": null
+    },
+    {
+        "month": "Mar-24",
+        "val": null
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 0.0
+    },
+    {
+        "month": "Feb-24",
+        "val": 0.0
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.0
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 1.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 1.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": null
+    },
+    {
+        "month": "Feb-24",
+        "val": null
+    },
+    {
+        "month": "Mar-24",
+        "val": null
+    },
+    {
+        "month": "Apr-24",
+        "val": 0.0
+    },
+    {
+        "month": "May-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jul-24",
+        "val": 0.0
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.0
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.0
+    },
+    {
+        "month": "Oct-24",
+        "val": 0.0
+    },
+    {
+        "month": "Jan-24",
+        "val": 1.04
+    },
+    {
+        "month": "Feb-24",
+        "val": 1.3
+    },
+    {
+        "month": "Mar-24",
+        "val": 0.74
+    },
+    {
+        "month": "Apr-24",
+        "val": 1.12
+    },
+    {
+        "month": "May-24",
+        "val": 0.85
+    },
+    {
+        "month": "Jun-24",
+        "val": 0.86
+    },
+    {
+        "month": "Jul-24",
+        "val": 1.37
+    },
+    {
+        "month": "Aug-24",
+        "val": 0.52
+    },
+    {
+        "month": "Sep-24",
+        "val": 0.59
+    },
+    {
+        "month": "Oct-24",
+        "val": 1.17
+    }
+]
